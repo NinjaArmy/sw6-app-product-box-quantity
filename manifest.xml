@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/shopware/platform/trunk/src/Core/Framework/App/Manifest/Schema/manifest-1.0.xsd">
+    <meta>
+        <name>NINJAProductBoxQuantity</name>
+        <label>Productbox Quantity field</label>
+        <label lang="de-DE">Produktbox Mengenfeld</label>
+        <description>Displays a quantity field in the productbox.</description>
+        <description lang="de-DE">Zeigt ein Anzahlfeld in der Produktbox an.</description>
+        <author>Joschi Mehta</author>
+        <copyright>(c) by Ninja Army</copyright>
+        <version>1.0.0</version>
+        <license>MIT</license>
+        <icon>Resources/config/plugin.png</icon>
+    </meta>
+</manifest>
